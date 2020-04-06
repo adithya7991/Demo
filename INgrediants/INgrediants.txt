@@ -1,1 +1,1 @@
-water -1,tea -2,sugar -3
+water -1,tea -4,sugar -6
